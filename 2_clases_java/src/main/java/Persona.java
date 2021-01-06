@@ -2,8 +2,8 @@
 
 public class Persona {
     //Atributos
-    String nombre;
-    String apellido;
+    public String nombre;
+    public String apellido;
     
     //Metodo de la clase
     //Lo usaran los objetos de esta clase
